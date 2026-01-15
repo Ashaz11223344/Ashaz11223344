@@ -1,5 +1,23 @@
-# 💫 About Me:
-🔭 I’m currently working on Building web based projects, AI tools, and experimenting with real world problem solving using code.<br>👯 I’m looking to collaborate on Web development projects, AI based applications, and creative tech ideas.<br>💬 Ask me about Web dev, Python, AI tools, project ideas, debugging, and tech setups.<br>⚡ Fun fact I enjoy mixing creativity with code and I can spend hours perfecting small UI or logic details.
+## 💫 About Me
+
+🔭 **Currently Working On**  
+Building scalable web based applications, AI driven tools, and real world problem solving projects with a focus on clean, efficient, and maintainable code.
+
+👯 **Looking to Collaborate On**  
+Full stack web development, AI based applications, automation tools, and creative tech ideas that balance performance, usability, and design.
+
+🤝 **Open To**  
+Open source contributions, collaborative projects, and learning driven environments where structured thinking, documentation, and code quality matter.
+
+🌱 **Currently Learning**  
+Advanced JavaScript, backend architectures, system design fundamentals, and practical AI implementations for real world use cases.
+
+💬 **Ask Me About**  
+Web development, Python, AI tools, debugging, project architecture, Git and GitHub workflows, and optimizing development setups.
+
+⚡ **Fun Fact**  
+I love mixing creativity with logic and can spend hours refining small UI details or optimizing algorithms until everything feels just right.
+
 
 
 ## 🌐 Socials:
